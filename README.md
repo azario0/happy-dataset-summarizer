@@ -1,5 +1,6 @@
 
 # Happy Dataset Summarizer
+![alt text](https://github.com/azario0/happy-dataset-summarizer/blob/main/logo.png)
 
 ## Overview
 
