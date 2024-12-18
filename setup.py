@@ -8,7 +8,7 @@ setup(
     description='A tool for generating comprehensive dataset reports to use with LLM',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/happy_dataset_summarizer',
+    url='https://github.com/azario0/happy-dataset-summarize',
     packages=find_packages(),
     install_requires=[
         'pandas',
