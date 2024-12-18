@@ -30,7 +30,7 @@ happy-dataset-summarizer your_dataset.csv -o custom_report.txt
 ### Python Import
 
 ```python
-from happy_dataset_summarizer.happy_dataset_summarizer import generate_report
+from happy_dataset_summarizer import generate_report
 
 generate_report('your_dataset.csv', include_describe=True)
 ```
