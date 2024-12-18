@@ -49,4 +49,4 @@ generate_report('your_dataset.csv', include_describe=True)
 
 ## License
 
-[Specify your license, e.g., MIT]
+MIT
